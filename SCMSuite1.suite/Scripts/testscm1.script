@@ -1,0 +1,5 @@
+﻿log "hello world!"
+
+put "hello" into myVar
+
+put myVar
