@@ -7,3 +7,5 @@ put myVar
 log "test new SCM"
 
 Log "updating from win10 vm"
+
+Log "changed again"
